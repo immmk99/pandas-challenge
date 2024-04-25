@@ -1,6 +1,7 @@
 # Module 4 - Pandas Challenge
 ## PyCitySchools
 This report is to analyze the district-wide standardized test results. It aggregates the data to showcase obvious trends in school performance. The school csv and students csv datasets  for this report are located in the ./resource  folder.
+The report contains the following outputs and supporting scripts: 
 - District Summary
 - School Summary
 - Highest-Performing Schools
